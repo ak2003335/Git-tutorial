@@ -1,0 +1,11 @@
+Step1:
+git init
+Step2:
+git add .
+Step3:
+git commit -m "version"
+Step4:
+git remote add origin <git repository ssh link>
+Step5:
+git push -u origin master
+
